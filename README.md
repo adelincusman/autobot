@@ -111,3 +111,7 @@ rm -rf ~/.claude/skills/autobot
 # Or per project
 rm -rf .claude/skills/autobot
 ```
+
+## License
+
+[MIT](LICENSE)
